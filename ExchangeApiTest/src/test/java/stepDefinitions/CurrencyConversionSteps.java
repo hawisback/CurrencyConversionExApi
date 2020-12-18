@@ -66,7 +66,7 @@ public class CurrencyConversionSteps extends BaseTest{
 	public void the_exchange_rate_date_should_be_current_date() throws Exception {
 		scenario.write("Current date : "+ model.getDate());
 		
-		assertEquals("The exchange date is not current date.", "2020-12-17", 
+		assertEquals("The exchange date is not current date.", UtilHelper.getPstDateFormat().format(new Date()), 
 				UtilHelper.getSimpleDateFormat().format(model.getDate()));
 	}
 

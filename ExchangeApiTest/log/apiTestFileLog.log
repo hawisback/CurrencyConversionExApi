@@ -1,0 +1,50 @@
+2020-12-18 15:43:28,042 - utility.Logging -INFO - Calling the api with endpoint : latest
+2020-12-18 15:43:28,753 - utility.Logging -INFO - Calling the endpoint.
+2020-12-18 15:43:29,860 - utility.Logging -INFO - io.restassured.internal.RestAssuredResponseImpl@7134b8a7
+2020-12-18 15:43:29,860 - utility.Logging -INFO - Deserializing json to CurrencyApiModel
+2020-12-18 15:43:30,737 - utility.Logging -INFO - Response time within acceptable limits.
+2020-12-18 15:43:30,755 - utility.Logging -INFO - Calling the api with endpoint : latest?symbols=USD,GBP,INR
+2020-12-18 15:43:30,756 - utility.Logging -INFO - Calling the endpoint.
+2020-12-18 15:43:31,161 - utility.Logging -INFO - io.restassured.internal.RestAssuredResponseImpl@13d289c7
+2020-12-18 15:43:31,162 - utility.Logging -INFO - Deserializing json to CurrencyApiModel
+2020-12-18 15:43:31,177 - utility.Logging -INFO - Response time within acceptable limits.
+2020-12-18 15:43:31,183 - utility.Logging -INFO - Calling the api with endpoint : latest?base=USD
+2020-12-18 15:43:31,184 - utility.Logging -INFO - Calling the endpoint.
+2020-12-18 15:43:31,549 - utility.Logging -INFO - io.restassured.internal.RestAssuredResponseImpl@4b4927e5
+2020-12-18 15:43:31,549 - utility.Logging -INFO - Deserializing json to CurrencyApiModel
+2020-12-18 15:43:31,570 - utility.Logging -INFO - Response time within acceptable limits.
+2020-12-18 15:43:31,575 - utility.Logging -INFO - Calling the api with endpoint : latest?base=USD&symbols=GBP
+2020-12-18 15:43:31,577 - utility.Logging -INFO - Calling the endpoint.
+2020-12-18 15:43:31,945 - utility.Logging -INFO - io.restassured.internal.RestAssuredResponseImpl@22b7ef2b
+2020-12-18 15:43:31,945 - utility.Logging -INFO - Deserializing json to CurrencyApiModel
+2020-12-18 15:43:31,962 - utility.Logging -INFO - Response time within acceptable limits.
+2020-12-18 15:43:31,968 - utility.Logging -INFO - Calling the api with endpoint : 2030-01-12
+2020-12-18 15:43:31,969 - utility.Logging -INFO - Calling the endpoint.
+2020-12-18 15:43:32,540 - utility.Logging -INFO - io.restassured.internal.RestAssuredResponseImpl@15586843
+2020-12-18 15:43:32,540 - utility.Logging -INFO - Deserializing json to CurrencyApiModel
+2020-12-18 15:43:32,557 - utility.Logging -INFO - Response time within acceptable limits.
+2020-12-18 15:43:32,562 - utility.Logging -INFO - Calling the api with endpoint : /api
+2020-12-18 15:43:32,563 - utility.Logging -INFO - Calling the endpoint.
+2020-12-18 15:43:32,917 - utility.Logging -INFO - io.restassured.internal.RestAssuredResponseImpl@1426370c
+2020-12-18 15:43:32,917 - utility.Logging -INFO - Deserializing json to CurrencyApiModel
+2020-12-18 15:43:32,919 - utility.Logging -INFO - Error response received from the API.
+2020-12-18 15:43:32,942 - utility.Logging -INFO - Calling the api with endpoint : 2010-01-12
+2020-12-18 15:43:32,943 - utility.Logging -INFO - Calling the endpoint.
+2020-12-18 15:43:33,255 - utility.Logging -INFO - io.restassured.internal.RestAssuredResponseImpl@3df77dfa
+2020-12-18 15:43:33,255 - utility.Logging -INFO - Deserializing json to CurrencyApiModel
+2020-12-18 15:43:33,274 - utility.Logging -INFO - Response time within acceptable limits.
+2020-12-18 15:43:33,291 - utility.Logging -INFO - Calling the api with endpoint : 2010-01-12?symbols=USD,GBP
+2020-12-18 15:43:33,292 - utility.Logging -INFO - Calling the endpoint.
+2020-12-18 15:43:33,660 - utility.Logging -INFO - io.restassured.internal.RestAssuredResponseImpl@7910f355
+2020-12-18 15:43:33,660 - utility.Logging -INFO - Deserializing json to CurrencyApiModel
+2020-12-18 15:43:33,674 - utility.Logging -INFO - Response time within acceptable limits.
+2020-12-18 15:43:33,688 - utility.Logging -INFO - Calling the api with endpoint : 2010-01-12?base=USD
+2020-12-18 15:43:33,689 - utility.Logging -INFO - Calling the endpoint.
+2020-12-18 15:43:34,009 - utility.Logging -INFO - io.restassured.internal.RestAssuredResponseImpl@45e11627
+2020-12-18 15:43:34,010 - utility.Logging -INFO - Deserializing json to CurrencyApiModel
+2020-12-18 15:43:34,026 - utility.Logging -INFO - Response time within acceptable limits.
+2020-12-18 15:43:34,042 - utility.Logging -INFO - Calling the api with endpoint : 2010-01-12?base=USD&symbols=GBP
+2020-12-18 15:43:34,043 - utility.Logging -INFO - Calling the endpoint.
+2020-12-18 15:43:34,394 - utility.Logging -INFO - io.restassured.internal.RestAssuredResponseImpl@74707df8
+2020-12-18 15:43:34,395 - utility.Logging -INFO - Deserializing json to CurrencyApiModel
+2020-12-18 15:43:34,413 - utility.Logging -INFO - Response time within acceptable limits.
